@@ -23,7 +23,7 @@ Program belirli bir web sayfasını girilenler doğrultusunda düzenlemektedir.
 
 # English
 
-This program is formats a website by using the data entered. 
+This programs formats a website by using the data entered. 
 
 	Notes
 
