@@ -112,7 +112,7 @@ public class Controller {
 
         JOptionPane.showMessageDialog(null,"                                                      Page Creator\n\n" +
                 "\n" +
-                        "This program is formats a website by using the data entered. \n" +
+                        "This programs formats a website by using the data entered. \n" +
                         "\n" +
                         "\tNotes:\n" +
                         "\n" +
@@ -144,7 +144,7 @@ public class Controller {
                 choose.setInitialDirectory(defaultDirectory);
                 selected = choose.showDialog(((Node)(actionEvent.getSource())).getScene().getWindow());
             }catch (Exception ex){
-                JOptionPane.showMessageDialog(null,"Your operating system could be determined.");
+                JOptionPane.showMessageDialog(null,"Your operating system could not be determined.");
             }
         }
 
