@@ -27,20 +27,6 @@ public class Main extends Application {
         launch(args);
     }
 
-
-    public static void toWindow(String fxmlUrl, String cssUrl) throws IOException {
-        File windowfxml = new File(fxmlUrl);
-        Parent root = FXMLLoader.load(windowfxml.toURL());
-        Scene scene = new Scene(root);
-        File maincss = new File(cssUrl);
-
-        scene.getStylesheets().add(maincss.toURI().toString());
-        Stage stage = new Stage();
-        stage.setScene(scene);
-        stage.show();
-        stage.setTitle("Page Creator");
-    }
-
 }
 
 
