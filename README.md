@@ -1,12 +1,12 @@
 PAGE CREATOR
 ------------
 
-# Türkçe
+### Türkçe
 
 Program belirli bir web sayfasını girilenler doğrultusunda düzenlemektedir.
 
 
-	Notlar
+		Notlar
 
  * Program içerisinde maddeleme yapmak için # karakterini kullanınız. (Malzemeler ve Yapılış Talimatı kısmında geçerlidir.)
 
@@ -15,17 +15,17 @@ Program belirli bir web sayfasını girilenler doğrultusunda düzenlemektedir.
  * 'Get Css Code' butonundan aldığınız css kodu html kodunun bulunduğu dizinle  aynı dizinde ve css klasörü içeriside bulunmalıdır.
  
 
-	Gerekli Yazılımlar
+		Gerekli Yazılımlar
 
  * [Buradaki](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) linkten Java SE Development Kit i indirin.
   
 
 
-# English
+### English
 
 This program edits a website by using the data entered. 
 
-	Notes
+		Notes
 
 * You should use "#" if you want to do listing inside the program. (This also includes ingredients and instructions)
 
@@ -34,7 +34,7 @@ This program edits a website by using the data entered.
 * The css code that you get by pressing "Get Css Code" button should be in the same location with html code and css folder.
 
 
-	Essential Softwares
+		Essential Softwares
     
 * Download Java SE Development Kit from [here](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). 
   
