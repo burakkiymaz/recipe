@@ -40,7 +40,7 @@ This program edits a website by using the data entered.
   
 
 
-[Burak Kıymaz](www.burakkiymaz.com)
+[Burak Kıymaz](http://www.burakkiymaz.com)
 
 [![image](http://i.hizliresim.com/D20XL1.png)](http://hizliresim.com/D20XL1)
 
